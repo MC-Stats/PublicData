@@ -1,0 +1,217 @@
+{
+  "mapping": {
+    "Comment": "You can't actually change these numbers, this is just to make it easier for people editing this file",
+    "Comment1": "These numbers correspond to the index of each array",
+    "Comment2": "The first coordinate is the most important (greater), the second is the least important (lesser).",
+    "Comment3": "For example, X:-100,Z:-50 is '-X -Z' but X:50,Z:100 is '+Z +X'",
+    "0": "+X +Z",
+    "1": "+Z +X",
+    "2": "+Z -X",
+    "3": "-X +Z",
+    "4": "-X -Z",
+    "5": "-Z -X",
+    "6": "-Z +X",
+    "7": "+X -Z"
+  },
+  "default": [
+    "yellow",
+    "cyan",
+    "white",
+    "pink",
+    "gray",
+    "red",
+    "blue",
+    "green"
+  ],
+  "fours_corner_default": [
+    "blue",
+    "blue",
+    "green",
+    "green",
+    "yellow",
+    "yellow",
+    "red",
+    "red"
+  ],
+  "map": {
+    "Dreamgrove": "fours_corner_default",
+    "Holmgang": "fours_corner_default",
+    "Invasion": "fours_corner_default",
+    "Jurassic": "fours_corner_default",
+    "Lectus": "fours_corner_default",
+    "SharkAttack": "fours_corner_default",
+    "Boardwalk": "fours_corner_default",
+    "Casita": [
+      "cyan",
+      "white",
+      "pink",
+      "gray",
+      "red",
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "Ironclad": [
+      "green",
+      "yellow",
+      "cyan",
+      "white",
+      "pink",
+      "gray",
+      "red",
+      "blue"
+    ],
+    "Pavilion": [
+      "white",
+      "pink",
+      "gray",
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "cyan"
+    ],
+    "Crypt": [
+      "green",
+      "yellow",
+      "cyan",
+      "white",
+      "pink",
+      "gray",
+      "red",
+      "blue"
+    ],
+    "Acropolis": [
+      "pink",
+      "gray",
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "cyan",
+      "white"
+    ],
+    "Boletum": [
+      "red",
+      "blue",
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "Graveship": [
+      "red",
+      "blue",
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "Gardens": [
+      "red",
+      "red",
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "red",
+      "red"
+    ],
+    "Entangle": [
+      "green",
+      "red",
+      "red",
+      "yellow",
+      "yellow",
+      "blue",
+      "blue",
+      "green"
+    ],
+    "Kubo": [
+      "red",
+      "red",
+      "blue",
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow"
+    ],
+    "Paradox": [
+      "blue",
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow",
+      "red",
+      "red"
+    ]
+  },
+  "modes": {
+    "FOUR_THREE": [
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow",
+      "red",
+      "red",
+      "blue"
+    ],
+    "FOUR_FOUR": [
+      "blue",
+      "green",
+      "green",
+      "yellow",
+      "yellow",
+      "red",
+      "red",
+      "blue"
+    ],
+    "TWO_FOUR": [
+      "blue",
+      "blue",
+      "blue",
+      "blue",
+      "red",
+      "red",
+      "red",
+      "red"
+    ],
+    "EIGHT_TWO_VOIDLESS": [
+      "red",
+      "green",
+      "blue",
+      "yellow",
+      "pink",
+      "gray",
+      "cyan",
+      "white"
+    ],
+    "FOUR_FOUR_VOIDLESS": [
+      "red",
+      "green",
+      "green",
+      "blue",
+      "blue",
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "CASTLE": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "blue",
+      "blue",
+      "blue",
+      "blue"
+    ]
+  }
+}
