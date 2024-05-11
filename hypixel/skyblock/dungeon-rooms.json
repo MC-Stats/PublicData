@@ -3361,5 +3361,19 @@
         "superboom": "15,70,23"
       }
     ]
+  },
+  {
+    "hashes": ["-1798934638-99"],
+    "ids": ["102,-60"],
+    "communityName": "Sand Dragon",
+    "roofHeight": 99,
+    "type": "CLEAR",
+    "secrets": [
+      {
+        "type": "CHEST",
+        "pos": "15,86,26",
+        "entrance": "15,85,23"
+      }
+    ]
   }
 ]
