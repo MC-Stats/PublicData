@@ -399,6 +399,10 @@
       {
         "key": "ARCADE_PIXEL_PARTY_HYPER",
         "name": "Pixel Party - Hyper Mode"
+      },
+      {
+        "key": "ARCADE_DROPPER",
+        "name": "Dropper"
       }
     ]
   },
@@ -698,8 +702,8 @@
     "icon": "PROTOTYPE",
     "modes": [
       {
-        "key": "PROTOTYPE_DROPPER",
-        "name": "Dropper"
+        "key": "PROTOTYPE_SHEEPWARS_TWO_SIX",
+        "name": "Sheep Wars"
       }
     ]
   }
