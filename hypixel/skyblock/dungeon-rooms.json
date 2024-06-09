@@ -3379,5 +3379,29 @@
         "entrance": "15,85,23"
       }
     ]
+  },
+  {
+    "hashes": ["937752871-88"],
+    "ids": ["210,-60"],
+    "communityName": "Mini Rail Track",
+    "roofHeight": 0,
+    "type": "CLEAR",
+    "secrets": [
+      {
+        "type": "BAT",
+        "pos": "20,72,10",
+        "entrance": "22,69,3"
+      },
+      {
+        "type": "BAT",
+        "pos": "3,79,25",
+        "entrance": "9,76,20"
+      },
+      {
+        "type": "CHEST",
+        "pos": "28,63,7",
+        "entrance": "6,72,22"
+      }
+    ]
   }
 ]
