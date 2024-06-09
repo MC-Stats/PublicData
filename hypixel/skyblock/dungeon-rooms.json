@@ -3108,9 +3108,9 @@
     "type": "CLEAR",
     "secrets": [
       {
-        "type": "BAT",
-        "pos": "28,71,14",
-        "entrance": "22,70,13"
+        "type": "ITEM_DROP",
+        "pos": "1,89,14",
+        "entrance": "23,71,23"
       },
       {
         "type": "CHEST",
