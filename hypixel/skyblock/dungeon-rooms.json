@@ -5,6 +5,7 @@
     "communityName": "Spawn",
     "roofHeight": 99,
     "type": "SPAWN",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -13,6 +14,7 @@
     "communityName": "Spawn",
     "roofHeight": 98,
     "type": "SPAWN",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -21,6 +23,7 @@
     "communityName": "Mines",
     "roofHeight": 119,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -81,6 +84,7 @@
     "communityName": "Double Diamond",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -105,6 +109,7 @@
     "communityName": "Layers",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -152,6 +157,7 @@
     "communityName": "Blue Skulls",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -166,6 +172,7 @@
     "communityName": "Old Trap",
     "roofHeight": 100,
     "type": "TRAP",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -193,6 +200,7 @@
     "communityName": "Grand Library",
     "roofHeight": 103,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -224,6 +232,7 @@
     "communityName": "Pirate",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -262,6 +271,7 @@
     "communityName": "Diagonal",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "CHEST",
@@ -296,6 +306,7 @@
     "communityName": "Tomioka",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "FAIRY_SOUL",
@@ -316,6 +327,7 @@
     "communityName": "Miniboss",
     "roofHeight": 99,
     "type": "MINIBOSS",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -324,6 +336,7 @@
     "communityName": "Three Weirdos",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -332,6 +345,7 @@
     "communityName": "Small Stairs",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -351,6 +365,7 @@
     "communityName": "Chains",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -370,6 +385,7 @@
     "communityName": "Ice Fill",
     "roofHeight": 90,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -378,6 +394,7 @@
     "communityName": "Pipes",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -423,6 +440,7 @@
     "communityName": "Blaze High to Low",
     "roofHeight": 83,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -437,6 +455,7 @@
     "communityName": "Fairy",
     "roofHeight": 99,
     "type": "FAIRY",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -451,12 +470,14 @@
       "1078645663-100",
       "31424125-100",
       "-1577384829-100",
-      "1737009281-100"
+      "1737009281-100",
+      "1445055587-100"
     ],
     "ids": ["-60,-636"],
     "communityName": "Bomb Defuse",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -465,6 +486,7 @@
     "communityName": "Gravel",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "CHEST",
@@ -504,6 +526,7 @@
     "communityName": "Blood",
     "roofHeight": 99,
     "type": "BLOOD",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -512,6 +535,7 @@
     "communityName": "Grass Ruin",
     "roofHeight": 119,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -537,6 +561,7 @@
     "communityName": "Leaves",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -556,6 +581,7 @@
     "communityName": "Market",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -590,6 +616,7 @@
     "communityName": "Jumping Skulls",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -603,6 +630,7 @@
     "communityName": "Tic Tac Toe",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -618,6 +646,7 @@
     "communityName": "Flags",
     "roofHeight": 119,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "BAT",
@@ -662,6 +691,7 @@
     "communityName": "Deathmite",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -701,6 +731,7 @@
     "communityName": "Overgrown Chains",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -720,6 +751,7 @@
     "communityName": "Temple",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -743,6 +775,7 @@
     "communityName": "Redstone Warrior",
     "roofHeight": 114,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -767,6 +800,7 @@
     "communityName": "Teleport Pads",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -775,6 +809,7 @@
     "communityName": "Wizard",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -817,6 +852,7 @@
     "communityName": "New Trap",
     "roofHeight": 100,
     "type": "TRAP",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -843,6 +879,7 @@
     "communityName": "Trivia",
     "roofHeight": 105,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -851,6 +888,7 @@
     "communityName": "Chambers",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -886,6 +924,7 @@
     "communityName": "Buttons",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -923,6 +962,7 @@
     "communityName": "Pedestal",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -956,6 +996,7 @@
     "communityName": "Steps",
     "roofHeight": 100,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -970,6 +1011,7 @@
     "communityName": "Silver's Sword",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -984,6 +1026,7 @@
     "communityName": "Mushroom",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -998,6 +1041,7 @@
     "communityName": "Prison Cell",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1025,6 +1069,7 @@
     "communityName": "Boulder",
     "roofHeight": 90,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -1033,6 +1078,7 @@
     "communityName": "Mossy",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -1066,6 +1112,7 @@
     "communityName": "Spider",
     "roofHeight": 98,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -1121,6 +1168,7 @@
     "communityName": "Stairs",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1153,6 +1201,7 @@
     "communityName": "Waterfall",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -1172,6 +1221,7 @@
     "communityName": "Granite",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -1191,6 +1241,7 @@
     "communityName": "Basement",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -1205,6 +1256,7 @@
     "communityName": "Sarcophagus",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1229,6 +1281,7 @@
     "communityName": "Hallway",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -1254,6 +1307,7 @@
     "communityName": "Catwalk",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "CHEST",
@@ -1295,6 +1349,7 @@
     "communityName": "Lava Tomb",
     "roofHeight": 100,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1321,6 +1376,7 @@
     "communityName": "Mural",
     "roofHeight": 98,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1335,6 +1391,7 @@
     "communityName": "Balcony",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1364,6 +1421,7 @@
     "communityName": "Rail Track",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1419,6 +1477,7 @@
     "communityName": "Cages",
     "roofHeight": 109,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -1439,6 +1498,7 @@
     "communityName": "Water Board",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -1447,6 +1507,7 @@
     "communityName": "Doors",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1487,6 +1548,7 @@
     "communityName": "Andesite",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -1506,6 +1568,7 @@
     "communityName": "Scaffolding",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1523,6 +1586,7 @@
     "communityName": "Mage",
     "roofHeight": 109,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1552,6 +1616,7 @@
     "communityName": "Atlas",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -1592,6 +1657,7 @@
     "communityName": "Quartz Knight",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -1634,6 +1700,7 @@
     "communityName": "Withermancers",
     "roofHeight": 129,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -1664,6 +1731,7 @@
     "communityName": "Creeper Beams",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -1672,6 +1740,7 @@
     "communityName": "Cathedral",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1722,6 +1791,7 @@
     "communityName": "Bridges",
     "roofHeight": 113,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -1763,6 +1833,7 @@
     "communityName": "Well",
     "roofHeight": 119,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -1806,6 +1877,7 @@
     "communityName": "Melon",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -1850,6 +1922,7 @@
     "communityName": "Painting",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -1869,6 +1942,7 @@
     "communityName": "Purple Flags",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -1907,6 +1981,7 @@
     "communityName": "Sloth",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -1921,6 +1996,7 @@
     "communityName": "Arrow Trap",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1936,6 +2012,7 @@
     "communityName": "Pressure Plate",
     "roofHeight": 114,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -1978,6 +2055,7 @@
     "communityName": "Banners",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -1992,6 +2070,7 @@
     "communityName": "Hall",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -2000,6 +2079,7 @@
     "communityName": "Dueces",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2025,6 +2105,7 @@
     "communityName": "Golden Oasis",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2050,6 +2131,7 @@
     "communityName": "Cavern",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -2098,6 +2180,7 @@
     "communityName": "Ice Path",
     "roofHeight": 100,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": []
   },
   {
@@ -2106,6 +2189,7 @@
     "communityName": "Locked Away",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2125,6 +2209,7 @@
     "communityName": "Lava Ravine",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -2166,6 +2251,7 @@
     "communityName": "Pit",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x4",
     "secrets": [
       {
         "type": "CHEST",
@@ -2200,6 +2286,7 @@
     "communityName": "Tower",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -2224,6 +2311,7 @@
     "communityName": "Big Red Flag",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2243,6 +2331,7 @@
     "communityName": "Cobble Wall Pillar",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2263,6 +2352,7 @@
     "communityName": "End",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -2283,6 +2373,7 @@
     "communityName": "Cage",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2297,6 +2388,7 @@
     "communityName": "Overgrown",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2322,6 +2414,7 @@
     "communityName": "Skull",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -2341,6 +2434,7 @@
     "communityName": "Dino Dig Site",
     "roofHeight": 101,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "CHEST",
@@ -2370,6 +2464,7 @@
     "communityName": "Gold",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -2384,6 +2479,7 @@
     "communityName": "Red Blue",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "ESSENCE",
@@ -2413,6 +2509,7 @@
     "communityName": "Slabs",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2432,6 +2529,7 @@
     "communityName": "Raccoon",
     "roofHeight": 97,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2467,6 +2565,7 @@
     "communityName": "Altar",
     "roofHeight": 101,
     "type": "CLEAR",
+    "size": "L",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2504,6 +2603,7 @@
     "communityName": "Dip",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2525,6 +2625,7 @@
     "communityName": "Slime",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x3",
     "secrets": [
       {
         "type": "CHEST",
@@ -2558,6 +2659,7 @@
     "communityName": "Dome",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -2578,6 +2680,7 @@
     "communityName": "Redstone Key",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2603,6 +2706,7 @@
     "communityName": "Crypts Thing",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2619,6 +2723,7 @@
     "communityName": "Perch",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2637,6 +2742,7 @@
     "communityName": "Red Crypt",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2660,6 +2766,7 @@
     "communityName": "Admin",
     "roofHeight": 112,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "FAIRY_SOUL",
@@ -2674,6 +2781,7 @@
     "communityName": "Blaze Low to High",
     "roofHeight": 133,
     "type": "PUZZLE",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2688,6 +2796,7 @@
     "communityName": "Super Tall",
     "roofHeight": 159,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "BAT",
@@ -2738,6 +2847,7 @@
     "communityName": "Museum",
     "roofHeight": 119,
     "type": "CLEAR",
+    "size": "2x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -2772,6 +2882,7 @@
     "communityName": "Logs",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2803,6 +2914,7 @@
     "communityName": "Long Hall",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2828,6 +2940,7 @@
     "communityName": "Duncan",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2842,6 +2955,7 @@
     "communityName": "Cell",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -2856,6 +2970,7 @@
     "communityName": "Archway",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -2880,6 +2995,7 @@
     "communityName": "Lots of Floors",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2905,6 +3021,7 @@
     "communityName": "Spikes",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -2929,6 +3046,7 @@
     "communityName": "Multicolored",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2943,6 +3061,7 @@
     "communityName": "Beams",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2962,6 +3081,7 @@
     "communityName": "Mirror",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2977,6 +3097,7 @@
     "communityName": "Drop",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -2996,6 +3117,7 @@
     "communityName": "Bonzo",
     "roofHeight": 146,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3004,6 +3126,7 @@
     "communityName": "Scarf",
     "roofHeight": 99,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3012,6 +3135,7 @@
     "communityName": "The Professor",
     "roofHeight": 118,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3020,6 +3144,7 @@
     "communityName": "Thorn",
     "roofHeight": 112,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3028,6 +3153,7 @@
     "communityName": "Livid",
     "roofHeight": 112,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3036,6 +3162,7 @@
     "communityName": "Sadan",
     "roofHeight": 110,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3044,6 +3171,7 @@
     "communityName": "The Wither Lords",
     "roofHeight": 254,
     "type": "BOSS",
+    "size": "boss",
     "secrets": []
   },
   {
@@ -3052,6 +3180,7 @@
     "communityName": "Crypt",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x2",
     "secrets": [
       {
         "type": "CHEST",
@@ -3087,6 +3216,7 @@
     "communityName": "Water",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3106,11 +3236,12 @@
     "communityName": "Lava Pool",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
-        "type": "BAT",
-        "pos": "28,71,14",
-        "entrance": "22,70,13"
+        "type": "ITEM_DROP",
+        "pos": "1,89,14",
+        "entrance": "23,71,23"
       },
       {
         "type": "CHEST",
@@ -3130,6 +3261,7 @@
     "communityName": "Multiflag",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3143,6 +3275,7 @@
     "communityName": "Red Green",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -3168,6 +3301,7 @@
     "communityName": "Knight",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -3194,6 +3328,7 @@
     "communityName": "Trinity",
     "roofHeight": 97,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -3225,6 +3360,7 @@
     "communityName": "Lava Skull",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "ITEM_DROP",
@@ -3251,6 +3387,7 @@
     "communityName": "Black Flag",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3275,6 +3412,7 @@
     "communityName": "Quad Lava",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3293,6 +3431,7 @@
     "communityName": "Zodd",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3307,6 +3446,7 @@
     "communityName": "Hanging Vines",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3321,6 +3461,7 @@
     "communityName": "Stone Window",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "BAT",
@@ -3340,6 +3481,7 @@
     "communityName": "Sanctuary",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3355,6 +3497,7 @@
     "communityName": "Pillars",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
@@ -3371,11 +3514,37 @@
     "communityName": "Sand Dragon",
     "roofHeight": 99,
     "type": "CLEAR",
+    "size": "1x1",
     "secrets": [
       {
         "type": "CHEST",
         "pos": "15,86,26",
         "entrance": "15,85,23"
+      }
+    ]
+  },
+  {
+    "hashes": ["937752871-88"],
+    "ids": ["210,-60"],
+    "communityName": "Mini Rail Track",
+    "roofHeight": 0,
+    "type": "CLEAR",
+    "size": "1x1",
+    "secrets": [
+      {
+        "type": "BAT",
+        "pos": "20,72,10",
+        "entrance": "22,69,3"
+      },
+      {
+        "type": "BAT",
+        "pos": "3,79,25",
+        "entrance": "9,76,20"
+      },
+      {
+        "type": "CHEST",
+        "pos": "28,63,7",
+        "entrance": "6,72,22"
       }
     ]
   }
