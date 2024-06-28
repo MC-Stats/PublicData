@@ -369,6 +369,10 @@
         "name": "Zombies - Alien Arcadium"
       },
       {
+        "key": "ARCADE_ZOMBIES_PRISON",
+        "name": "Zombies - Prison"
+      },
+      {
         "key": "ARCADE_HIDE_AND_SEEK_PROP_HUNT",
         "name": "Hide and Seek - Prop Hunt"
       },
