@@ -394,11 +394,7 @@
       },
       {
         "key": "ARCADE_PIXEL_PARTY",
-        "name": "Pixel Party - Normal Mode"
-      },
-      {
-        "key": "ARCADE_PIXEL_PARTY_HYPER",
-        "name": "Pixel Party - Hyper Mode"
+        "name": "Pixel Party"
       },
       {
         "key": "ARCADE_DROPPER",
